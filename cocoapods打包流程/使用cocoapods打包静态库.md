@@ -78,3 +78,12 @@
 		pod package MyTestSDK.podspec --library --force
 		--library 表示打包.a  不带则打包.framework
 		--force 表示覆盖之前打包出的库
+		
+## 参考:
+
+> [<font color="#dd0000">组件化方案</font><br/>](https://www.jianshu.com/p/2cb4cc8d216e)
+> [<font color="#dd0000">创建CocoaPods私有podspec</font><br/>](http://www.cnblogs.com/wengzilin/p/4760472.html)
+> [<font color="#dd0000">使用cocoapods打包静态库</font><br/>](https://www.jianshu.com/p/9096a2eb2804)
+> [<font color="#dd0000">cocoaPods进行SDK二次包装</font><br/>](https://blog.csdn.net/iostiannan/article/details/81007691)
+> [<font color="#dd0000">iOS动态库、静态库打包方法总结</font><br/>](http://www.360doc.com/content/17/0319/14/9200790_638168458.shtml)
+> [<font color="#dd0000">cocoapods打包静态库podspec属性更多介绍</font><br/>](https://www.jianshu.com/p/605350a7b1dd)
