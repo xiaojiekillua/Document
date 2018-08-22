@@ -13,7 +13,7 @@
 		
 **2. 配置podspec文件，添加SDK代码**
 
-[**podspec 样本 (xcode打开)**](MyTestSDK.podspec)
+> [**podspec 样本 (xcode打开)**](MyTestSDK.podspec)
 
 `添加SDK代码:`
 
@@ -37,7 +37,7 @@
 			第三方依赖 如：AFNetworking
 			
 `参考:`
- [<font color="#dd0000">Podspec Syntax Reference</font><br/>](http://guides.cocoapods.org/syntax/podspec.html)
+> [<font color="#dd0000">Podspec Syntax Reference</font><br/>](http://guides.cocoapods.org/syntax/podspec.html)
 
 **3. 验证podspec文件合法性**
 
